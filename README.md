@@ -27,7 +27,7 @@ One can search, navigate, and modify data using a parser. It’s versatile and s
 ### Program:
 ```
 
- import requests
+import requests
 from bs4 import BeautifulSoup
 import time
 search_query = input("Enter the product to search on Snapdeal: ").strip()
